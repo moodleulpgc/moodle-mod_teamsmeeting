@@ -1,0 +1,29 @@
+/** Mod teamsmeeting view **/
+#page-mod-teamsmeeting-view .datesinfo {
+    text-align: center;
+}
+
+.path-mod-teamsmeeting .backtocourse {
+    text-align: center;
+    margin-top: 1.0rem;
+}
+
+.path-mod-teamsmeeting .toolbuttons {
+    margin: 1.0rem 0;
+}
+
+.path-mod-teamsmeeting .toolbuttons a{
+    margin-right: 0.5rem;
+}
+
+.path-mod-teamsmeeting .dimmed, .path-mod-teamsmeeting .dimmed a {
+    color: #868e96 !important; 
+}
+
+.path-mod-teamsmeeting .recordingstable {
+    margin: 0.5rem 0;
+}
+
+.path-mod-teamsmeeting .actionbutton {
+    margin: 0.5rem 0;
+}
